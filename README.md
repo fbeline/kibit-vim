@@ -2,8 +2,7 @@
 
 [kibit](https://github.com/jonase/kibit) is a static code analyzer for Clojure, ClojureScript, cljx and other Clojure variants.
 
-
-![kibit-vim](https://user-images.githubusercontent.com/5730881/30007606-ea4ca390-90e8-11e7-8a23-48b741416c0f.png)
+![kibit-vim](https://user-images.githubusercontent.com/5730881/30009893-1ac06cc8-9102-11e7-9720-f973da58a8d1.png)
 
 ## Usage
 
@@ -24,14 +23,14 @@ Add the following to your `~/.lein/profiles.clj`:
 
 To install kibit-vim with Vundle, add the following line to your .vimrc:
 
-`Bundle 'felipeBB/kibit-vim'`
+`Bundle 'FelipeBB/kibit-vim'`
 
 
 ### Installing with Plug
 
 To install kibit-vim with Pug, add the following line to your .vimrc:
 
-`Plug 'felipeBB/kibit-vim'`
+`Plug 'FelipeBB/kibit-vim'`
 
 ## License
 
