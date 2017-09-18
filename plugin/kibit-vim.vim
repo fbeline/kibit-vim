@@ -1,4 +1,4 @@
-function s:getKibitResponse(output)
+function! s:getKibitResponse(output)
   let l:start = stridx(a:output, "Consider using:")
   let l:end = strlen(a:output)
 
