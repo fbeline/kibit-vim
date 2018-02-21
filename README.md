@@ -23,14 +23,14 @@ Add the following to your `~/.lein/profiles.clj`:
 
 To install kibit-vim with Vundle, add the following line to your .vimrc:
 
-`Bundle 'FelipeBB/kibit-vim'`
+`Bundle 'fbeline/kibit-vim'`
 
 
 ### Installing with Plug
 
 To install kibit-vim with Pug, add the following line to your .vimrc:
 
-`Plug 'FelipeBB/kibit-vim'`
+`Plug 'fbeline/kibit-vim'`
 
 ## License
 
